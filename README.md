@@ -112,8 +112,13 @@ reasonable amount of time</span></font></font></font></p>
 
 </p>
 <p align="center" style="margin-top: 0.42cm; margin-bottom: 0.42cm; font-variant: normal; line-height: 138%; text-decoration: none">
-<span style="display: inline-block; border: none; padding: 0cm"><span style="background: transparent"><font color="#000000"><img src="blogpost_html_4995bafb34eef9a8.png" name="Image3" align="bottom" width="624" height="267" border="0"/>
+<span style="display: inline-block; border: none; padding: 0cm"><span style="background: transparent"><font color="#000000"><img src="https://raw.githubusercontent.com/li-william-wl/TSP-with-G-API-calls/main/blog%20img%203.png" name="Image3" align="bottom" width="624" height="267" border="0"/>
 </span></span></font></p>
+
+<p align="center" style="margin-top: 0.42cm; margin-bottom: 0.42cm; font-variant: normal; line-height: 138%; text-decoration: none">
+<span style="display: inline-block; border: none; padding: 0cm"><span style="background: transparent"><font color="#000000"><img src="https://raw.githubusercontent.com/li-william-wl/TSP-with-G-API-calls/main/blog%20img%204.png" name="Image3" align="bottom" width="560" height="560" border="0"/>
+</span></span></font></p>
+
 <p><br/>
 <br/>
 
