@@ -3,9 +3,7 @@
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
 	
-	<meta name="generator" content="LibreOffice 6.4.6.2 (Linux)"/>
-	<meta name="created" content="2021-03-23T00:44:26.376281327"/>
-	<meta name="changed" content="2021-03-23T00:46:19.562900563"/>
+
 </head>
 <body lang="en-CA" dir="ltr"><p style="font-variant: normal; font-style: normal; font-weight: normal; text-decoration: none">
 <font color="#000000"><font face="Arial"><font size="2" style="font-size: 11pt"><span style="background: transparent">With
@@ -87,7 +85,7 @@ matrix&nbsp;</span></font></font></font></p>
 
 </p>
 <p align="center" style="margin-top: 0.42cm; margin-bottom: 0.42cm; font-variant: normal; line-height: 138%; text-decoration: none">
-<span style="display: inline-block; border: none; padding: 0cm"><span style="background: transparent"><font color="#000000"><img src="blogpost_html_8f52b2cba0fdab2a.png" name="Image2" align="bottom" width="223" height="97" border="0"/>
+<span style="display: inline-block; border: none; padding: 0cm"><span style="background: transparent"><font color="#000000"><img src="https://raw.githubusercontent.com/li-william-wl/TSP-with-G-API-calls/main/blog%20img%202.png" name="Image2" align="bottom" width="223" height="97" border="0"/>
 </span></span></font></p>
 <p align="center" style="margin-top: 0.42cm; margin-bottom: 0.42cm; font-variant: normal; font-style: normal; font-weight: normal; line-height: 138%; text-decoration: none">
 <font color="#000000"><font face="Arial"><font size="1" style="font-size: 8pt"><span style="background: transparent">Example
