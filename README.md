@@ -85,7 +85,7 @@ matrix&nbsp;</span></font></font></font></p>
 
 </p>
 <p align="center" style="margin-top: 0.42cm; margin-bottom: 0.42cm; font-variant: normal; line-height: 138%; text-decoration: none">
-<span style="display: inline-block; border: none; padding: 0cm"><span style="background: transparent"><font color="#000000"><img src="https://raw.githubusercontent.com/li-william-wl/TSP-with-G-API-calls/main/blog%20img%202.png" name="Image2" align="bottom" width="223" height="97" border="0"/>
+<span style="display: inline-block; border: none; padding: 0cm"><span style="background: transparent"><font color="#000000"><img src="https://raw.githubusercontent.com/li-william-wl/TSP-with-G-API-calls/main/blog%20img%202.png" name="Image2" align="bottom" width="600" height="300" border="0"/>
 </span></span></font></p>
 <p align="center" style="margin-top: 0.42cm; margin-bottom: 0.42cm; font-variant: normal; font-style: normal; font-weight: normal; line-height: 138%; text-decoration: none">
 <font color="#000000"><font face="Arial"><font size="1" style="font-size: 8pt"><span style="background: transparent">Example
