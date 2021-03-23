@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
+	
 	<meta name="generator" content="LibreOffice 6.4.6.2 (Linux)"/>
 	<meta name="created" content="2021-03-23T00:44:26.376281327"/>
 	<meta name="changed" content="2021-03-23T00:46:19.562900563"/>
@@ -23,7 +23,7 @@ bank into the middle of the route while I sweep east to west? What if
 I incorporate traffic flow into my decision?&nbsp; How would one
 determine the best and shortest path between all of these locations?</span></font></font></font></p>
 <p align="center" style="margin-top: 0.42cm; margin-bottom: 0.42cm; font-variant: normal; line-height: 138%; text-decoration: none">
-<span style="display: inline-block; border: none; padding: 0cm"><span style="background: transparent"><font color="#000000"><img src="blogpost_html_a72ffb1d953ee363.png" name="Image1" align="bottom" width="358" height="359" border="0"/>
+<span style="display: inline-block; border: none; padding: 0cm"><span style="background: transparent"><font color="#000000"><img src="https://raw.githubusercontent.com/li-william-wl/TSP-with-G-API-calls/main/blog%20Img%201.png" name="Image1" align="bottom" width="358" height="359" border="0"/>
 </span></span></font></p>
 <p align="center" style="margin-top: 0.42cm; margin-bottom: 0.42cm; font-variant: normal; font-style: normal; font-weight: normal; line-height: 138%; text-decoration: none">
 <font color="#000000"><font face="Arial"><font size="1" style="font-size: 8pt"><span style="background: transparent">Ever
